@@ -4,7 +4,7 @@ return [
     'LOGIN' => '197',
     'PASS' => 'Test@123',
     'PRODID' => 'NSE',
-    'SITE_URL' => 'http://127.0.0.1:8000',
-    'RETURN_TRUE_URL' => 'http://127.0.0.1:8000/true',
-    'RETURN_FALSE_URL' => 'http://127.0.0.1:8000/false'
+    'SITE_URL' => '', #Example: 'http://example.com',
+    'RETURN_TRUE_URL' => '', #Example: 'http://example.com/true',
+    'RETURN_FALSE_URL' => '' #Example: 'http://example.com/false'
 ];
